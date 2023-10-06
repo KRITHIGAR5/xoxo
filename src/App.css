@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  background-color: #aea1ff;
+  font-family: "creepster", sans-serif;
+}
